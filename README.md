@@ -24,6 +24,9 @@ BQ36RD24 BIOS for Jingsha X99 Dual Motherboard 11/20/2020
 Feature: UEFI Only.
 
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36RD24.PNG" alt="Jingsha X99 Dual BQ36RD24 BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36RD24-01.png" alt="Jingsha X99 Dual BQ36RD24 BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36RD24-02.png" alt="Jingsha X99 Dual BQ36RD24 BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/BQ36RD24-03.png" alt="Jingsha X99 Dual BQ36RD24 BIOS" />
 
 How to update Firmware:
 
