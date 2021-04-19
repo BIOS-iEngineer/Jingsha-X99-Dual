@@ -30,6 +30,6 @@ Feature: UEFI Only.
 
 How to update Firmware:
 
-   1) Burn the Firmware to programmer device. (e.g. EZP-2019)
+   1) Burn the Firmware with programmer device. (e.g. EZP-2019)
    2) Clear CMOS.
    3) Configure RAM timings & enjoy.
